@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=F80000)](https://linkedin.com/in/sandeep-k-singh-59b8639)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=F80000)](https://linkedin.com/in/sandeep-singh-59b8639)
 [![Email](https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=F80000)](mailto:sandeep.singh1978@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=SANDEEP-GH-USERNAME&color=F80000&style=for-the-badge&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeep-singh1978&color=F80000&style=for-the-badge&label=VIEWS)
 
 </div>
 
@@ -189,7 +189,7 @@ Own the Oracle EBS estate end to end — **400+ databases and applications, 25+ 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-k-singh-59b8639)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-singh-59b8639)
 [![Email](https://img.shields.io/badge/sandeep.singh1978@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeep.singh1978@gmail.com)
 
 </div>
